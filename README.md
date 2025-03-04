@@ -5,7 +5,7 @@
 
 - 💡 I’m currently learning **Reactjs, Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://hannah-lindback.github.io./](https://hannah-lindback.github.io./)
+- 👨‍💻 All of my projects are available at [https://hannah-lindback.github.io./](https://hannah-lindback.github.io./ (work in progress...)
 
 - 📫 How to reach me **hannahlindback@gmail.com**
 
