@@ -1,9 +1,9 @@
 <h1 align="center">Hi ✨, I'm Hannah!</h1>
 <h3 align="center">A passionate and curious junior developer! 🖥️</h3>
 
-- 🔭 I’m currently working on **my bachelor degree**
+- 🧾 I’m currently working on **my bachelor degree**
 
-- 🌱 I’m currently learning **Reactjs, Nextjs**
+- 💡 I’m currently learning **Reactjs, Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://hannah-lindback.github.io./](https://hannah-lindback.github.io./)
 
