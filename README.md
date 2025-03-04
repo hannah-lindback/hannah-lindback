@@ -9,9 +9,8 @@
 
 - 📫 How to reach me **hannahlindback@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hannah-lindback-42800417a/](https://www.linkedin.com/in/hannah-lindback-42800417a/)
+- 📄 Know about my experiences or talk tech: [https://www.linkedin.com/in/hannah-lindback-42800417a/](https://www.linkedin.com/in/hannah-lindback-42800417a/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
