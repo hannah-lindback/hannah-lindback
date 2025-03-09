@@ -5,11 +5,11 @@
 
 - 💡 I’m currently learning **Reactjs, Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://hannah-lindback.github.io./](https://hannah-lindback.github.io./ (work in progress...)
+- 👨‍💻 All of my projects are available at [my portfolio](https://hannah-lindback.github.io/) (work in progress...)
 
-- 📫 How to reach me **hannahlindback@gmail.com**
+- 📫 How to reach me at [hannahlindback@gmail.com](mailto:hannahlindback@gmail.com)
 
-- 📄 Know about my experiences or talk tech: [https://www.linkedin.com/in/hannah-lindback-42800417a/](https://www.linkedin.com/in/hannah-lindback-42800417a/)
+- 📄 Know about my experiences or talk tech: [LinkedIn](https://www.linkedin.com/in/hannah-lindback/)
 
 <p align="left">
 </p>
