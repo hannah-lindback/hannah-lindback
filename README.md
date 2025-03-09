@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://hannah-lindback.github.io/) (work in progress...)
 
-- 📫 How to reach me at [hannahlindback@gmail.com](mailto:hannahlindback@gmail.com)
+- 📫 How to reach me: [hannahlindback@gmail.com](mailto:hannahlindback@gmail.com)
 
 - 📄 Know about my experiences or talk tech: [LinkedIn](https://www.linkedin.com/in/hannah-lindback/)
 
