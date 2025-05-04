@@ -5,7 +5,7 @@
 
 - 💡 I’m currently learning **Reactjs, Nextjs**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https:www.hannahlindback.se/) (work in progress...)
+- 👨‍💻 All of my projects are available at [my portfolio](https://www.hannahlindback.se/) (work in progress...)
 
 - 📫 How to reach me: [hannahlindback@gmail.com](mailto:hannahlindback@gmail.com)
 
